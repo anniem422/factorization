@@ -1,2 +1,2 @@
 # factorization
-  This simple program models the prime factorization of an inputed integer. 
+  This simple python program models the prime factorization of an inputed integer. 
